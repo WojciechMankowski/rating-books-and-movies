@@ -1,10 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+Frontent/node_modules
 /.pnp
 .pnp.js
-
+Beckend/.idea
+Beckend/__pycache__
+Beckend/venv
 # testing
 /coverage
 
